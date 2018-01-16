@@ -1,0 +1,39 @@
+export const StaticData = [
+    {
+       "place" : "Jaipur",
+       "detail" : "Jaipur (/ˈdʒaɪpʊər/ (About this sound listen))[2][3][4] is the capital and the largest city of the Indian state of Rajasthan in Western India. It was founded on 18 November 1727 by Jai Singh II, the ruler of Amer after whom the city is named.[5] As of 2011, the city has a population of 3.1 million, making it the tenth most populous city in the country. Jaipur is also known as the Pink City of India.[6] Jaipur is located 280 km (174 miles) from the Indian capital New Delhi. Jaipur forms a part of the west Golden Triangle tourist circuit along with Agra (240 km, 149 mi).[7] Jaipur is a popular tourist destination in India and serves as a gateway to other tourist destinations in Rajasthan such as Jodhpur (348 km, 216 mi), Jaisalmer (571 km, 355 mi) Udaipur (421 km, 262 mi). and Mount Abu (520 km, 323 mi).",
+       "sight" : [
+          {
+            "place" : "Hawa Mahal",
+            "url" : "https://www.jaipurtravel.com/slide1.jpg",
+            "detail" : "The massive edifice of Hawa Mahal stands at the intersection of the main road in Jaipur, Badi Chaupad. It is regarded as the signature building of the city and was built by Maharaja Sawai Pratap Singh in the year 1799. Hawa Mahal derives its name from its unique structure, which is a mesh of small windows that allowed cool wind to enter the palace and hence kept the palace comfortable during the hot summer months. The main reason behind the palace's construction was to allow the women of the royal house to observe the festivities on the streets whilst being unseen from the outside. Hawa Mahal is built in the Rajput architectural style and is constructed of red and pink sandstone. The Palace has a pyramidal structure which almost resembles a crown, and is embellished with myriad tiny windows. From within, the Hawa Mahal palace is based on five floors with each and every on... "
+          },
+          {
+            "place" : "Amber Fort",
+            "url" : "https://www.jaipurtravel.com/slide2.jpg",
+            "detail" : "Cradled on the top of the Aravali Hill and forming a beautiful reflection across the Maotha Lake, lies the Amber Fort. An architectural masterpiece and with significant reference in the Indian history, it is visited by over five thousand tourists daily. Only eleven kilometres away from the capital city of Jaipur, Amber Fort is clad in pink and yellow sandstone and is a part of an extensive complex. The Fort gives a mesmerizing view from the bottom of the hill when it is illuminated every evening. Built by one of the most trusted general of Akbar, Man Singh who had a huge impact on the Indian politics and society in the sixteenth century. Amber Fort or Amer Fort as it is locally referred is a photographer's paradise. The Amber Fort through its large ramparts and several gateways and paved path overlook the Maotha Lake. Amer is a small town with an area hardly over four square kilometres, it once served as a capital city of Rajasthan and is one of a prominent tourist attraction today with visitors coming"
+        },
+        {
+          "place" : "Nahargarh Fort",
+          "url" : "https://www.jaipurtravel.com/slide3.jpg",
+          "detail" : "Located in the Pink City of Jaipur is the Nahargarh Fort, which is one of the many countless palaces and beautiful historic buildings that speak of the magnificent and rich history of this city. Embellished with delicate carvings and stonework, the Nahargarh Fort is an impregnable fortification that together with its two neighbouring forts, Amer Fort and Jaigarh Fort, once stood as the strong defence of Jaipur city. Standing tall on Aravalli Hills, the Fort was built by Maharaja Sawai Jai Singh II in the year 1734 as a retreat. It was originally called Sudarshangarh Fort, but was later renamed to Nahargarh Fort which literally translated to 'The Abode of Tigers. With some breathtaking views of the city, the Nahargarh Fort is known for its extended wall which connects it to Jaigarh Fort. One of the main attractions in the premises of the Nahargarh fort is the Madhavendra Bhavan, which is a magnificent hall designed with intricate murals and stucco work. Nahargarh Fort was primarily used as a retreat f or the ladies of the royal household and has a ladies quarters by the name of 'Zenana'."
+        }
+       ]
+   },
+   {
+       "place" : "Delhi",
+       "detail" : "Delhi (/ˈdʒaɪpʊər/ (About this sound listen))[2][3][4] is the capital and the largest city of the Indian state of Rajasthan in Western India. It was founded on 18 November 1727 by Jai Singh II, the ruler of Amer after whom the city is named.[5] As of 2011, the city has a population of 3.1 million, making it the tenth most populous city in the country. Jaipur is also known as the Pink City of India.[6] Jaipur is located 280 km (174 miles) from the Indian capital New Delhi. Jaipur forms a part of the west Golden Triangle tourist circuit along with Agra (240 km, 149 mi).[7] Jaipur is a popular tourist destination in India and serves as a gateway to other tourist destinations in Rajasthan such as Jodhpur (348 km, 216 mi), Jaisalmer (571 km, 355 mi) Udaipur (421 km, 262 mi). and Mount Abu (520 km, 323 mi).",
+       "sight" : [
+          {
+            "place" : "Red Fort",
+            "url" : "https://www.jaipurtravel.com/slide4.jpg",
+            "detail" : "The Red Fort is a historical fortification in the national capital of New Delhi. Located in the center of the city, it was the main residence of the emperors of the Mughal dynasty. It was constructed by Shah Jahan in the year 1939 as a result of a capital shift from Agra to Delhi. This imposing piece of architecture derives its name from its impregnable red sandstone walls. In addition to accommodating the emperors and their households, it was the ceremonial and political center of the Mughal state and the setting for events critically impacting the region. Today, this monument is home to a number of museums that have an assortment of precious artifacts on display.  Every year, the Indian Prime Minister unfurls the national flag here on the Independence Day. Formerly known as Quila-e-Mubarak or the Blessed Fort, the Red Fort lies along the banks of the river Yamuna, whose waters fed the moats surrounding the fort. It was a part of the medieval city of Shahjahanabad, popularly known today as 'Old Delhi'. The entire fort complex is said to represent the"
+          },
+          {
+            "place" : "Qutb Minar",
+            "url" : "https://fthmb.tqn.com/Vqe5JXuW_7_Ch9ccncpyLeHrthI=/960x0/filters:no_upscale()/GettyImages-531732818-592d24ec3df78cbe7e956e68.jpg",
+            "detail" : "Qutab Minar was established along with Quwwat-ul-Islam Mosque around 1192 by Qutab-ud-din Aibak, first ruler of the Delhi Sultanate.[6] The mosque complex is one of the earliest that survives in the Indian subcontinent.[7][8] The minaret is named after Qutab-ud-din Aibak, or Qutabuddin Bakhtiar Kaki, a Sufi saint.[9] Its ground storey was built over the ruins of the Lal Kot, the citadel of Dhillika.[10] Aibak's successor Iltutmish added three more storeys.[9] The minar's topmost storey was damaged by lightning in 1369 and was rebuilt by Firoz Shah Tughlaq, who added another storey. In 1505, an earthquake damaged Qutub Minar; it was repaired by Sikander Lodi. On 1 September 1803, a major earthquake caused serious damage. Major Robert Smith of the British Indian Army renovated the tower in 1828 and installed a pillared cupola over the fifth story, thus creating a sixth. The cupola was taken down in 1848, under instructions from The Viscount Hardinge, then Governor General of India. It was reinstalled at ground level to the east of Qutab Minar, where it remains."
+          }
+       ]
+   }
+]
